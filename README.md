@@ -1,2 +1,2 @@
-# armazenador-de-n-meros
+# armazenador-de-numeros
 armazenador de números
